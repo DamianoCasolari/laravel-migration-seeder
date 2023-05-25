@@ -1,0 +1,17 @@
+@import '~bootstrap/scss/bootstrap';
+
+// Container 
+
+header {
+    height: 100px;
+}
+
+.my_container {
+    min-height: calc(100vh - 150px);
+    width: 100%;
+}
+
+footer {
+    height: 50px;
+    line-height: 50px;
+}
