@@ -15,7 +15,7 @@
                 <th class="p-3">Top </th>
                 <th class="p-3">Top </th>
             </tr>
-            <tr class="p-3 text-center ">
+            <tr class="p-3 text-center bg-dark text-light">
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
@@ -37,7 +37,7 @@
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
             </tr>
-            <tr class="p-3 text-center">
+            <tr class="p-3 text-center bg-dark text-light">
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
@@ -59,7 +59,7 @@
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
             </tr>
-            <tr class="p-3 text-center">
+            <tr class="p-3 text-center bg-dark text-light">
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
@@ -81,7 +81,7 @@
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
             </tr>
-            <tr class="p-3 text-center">
+            <tr class="p-3 text-center bg-dark text-light">
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>
                 <td class="p-3">info </td>

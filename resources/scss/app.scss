@@ -15,3 +15,21 @@ footer {
     height: 50px;
     line-height: 50px;
 }
+
+//General
+
+a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.868);
+    border: 2px solid rgba(255, 255, 255, 0.868);
+    ;
+    padding: 3px 10px;
+    border-radius: 8px;
+
+
+}
+
+nav a:hover {
+    background-color: rgba(255, 255, 255, 0.868) !important;
+    color: rgb(23, 23, 23) !important;
+}
